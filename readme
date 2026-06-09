@@ -1,1 +1,4 @@
+###Social Network Ads Purchase Prediction using Logistic Regression
+Project Description
 
+This project predicts whether a user will purchase a product based on Age and Estimated Salary. The dataset is stored in MySQL, fetched using Pandas, trained using Logistic Regression, and deployed using Flask API.
